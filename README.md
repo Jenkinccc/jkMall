@@ -1,8 +1,7 @@
-# Jason's resume
+# jkmall
 
-> My resume powered by vue.js and deploy on ijason.cc
+> JK Mall (online mall)
 
-Website: [https://ijason.cc](https://ijason.cc)
 
 ## Build Setup
 
@@ -22,5 +21,3 @@ npm run unit
 # run all tests
 npm test
 ```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
