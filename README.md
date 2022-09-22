@@ -2,6 +2,8 @@
 
 > JK Mall (online mall)
 
+Vue + Node 手机配件商城项目
+
 
 ## Build Setup
 
